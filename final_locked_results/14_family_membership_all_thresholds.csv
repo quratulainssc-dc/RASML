@@ -1,0 +1,257 @@
+cut_distance,equivalent_abs_rho,indicator,family
+0.05,0.95,Total Publication,F01
+0.05,0.95,Total Citation,F02
+0.05,0.95,Total Years,F03
+0.05,0.95,Cite/Year,F04
+0.05,0.95,Cite/Paper,F05
+0.05,0.95,h index,F06
+0.05,0.95,g index,F06
+0.05,0.95,h(2) index,F02
+0.05,0.95,w index,F02
+0.05,0.95,h core citation,F02
+0.05,0.95,m index,F07
+0.05,0.95,f index,F06
+0.05,0.95,t index,F06
+0.05,0.95,tappered_h_index,F06
+0.05,0.95,Maxprod,F02
+0.05,0.95,wu index,F06
+0.05,0.95,pi index,F02
+0.05,0.95,weighted h index,F02
+0.05,0.95,woginger_index,F08
+0.05,0.95,Gh_index,F06
+0.05,0.95,Rm index,F02
+0.05,0.95,X index,F09
+0.05,0.95,h2upper_index,F10
+0.05,0.95,h2 center_index,F11
+0.05,0.95,h2 lower_index,F12
+0.05,0.95,k dash index,F13
+0.05,0.95,i10 index,F06
+0.05,0.95,normalized_h_index,F14
+0.05,0.95,platinium_h_index,F04
+0.05,0.95,m_qoutient_index,F15
+0.05,0.95,HI_index,F06
+0.05,0.95,AW_index,F02
+0.05,0.95,Ar index,F02
+0.05,0.95,V index,F16
+0.05,0.95,hm_index,F06
+0.05,0.95,hf index,F06
+0.05,0.95,gf index,F06
+0.05,0.95,gF index,F01
+0.05,0.95,hi index,F06
+0.05,0.95,h_m_index,F06
+0.05,0.95,k norm index,F06
+0.05,0.95,w norm index,F06
+0.05,0.95,gm index,F01
+0.05,0.95,A index,F07
+0.05,0.95,R index,F02
+0.05,0.95,P index,F17
+0.05,0.95,q2 index,F02
+0.05,0.95,e index,F02
+0.05,0.95,hg_index,F06
+0.05,0.95,pure h index,F06
+0.05,0.95,fractional g index,F06
+0.05,0.95,fractional h index,F06
+0.05,0.95,AWCR,F02
+0.05,0.95,Author/paper,F18
+0.05,0.95,cites/author,F02
+0.05,0.95,paper/author,F01
+0.05,0.95,k index,F19
+0.05,0.95,h dash index,F02
+0.05,0.95,hl norm,F06
+0.05,0.95,hc index,F02
+0.05,0.95,ha index,F02
+0.05,0.95,hi index s,F06
+0.05,0.95,Rational h index,F06
+0.05,0.95,Real h index,F20
+0.1,0.9,Total Publication,F01
+0.1,0.9,Total Citation,F02
+0.1,0.9,Total Years,F03
+0.1,0.9,Cite/Year,F04
+0.1,0.9,Cite/Paper,F05
+0.1,0.9,h index,F02
+0.1,0.9,g index,F02
+0.1,0.9,h(2) index,F02
+0.1,0.9,w index,F02
+0.1,0.9,h core citation,F02
+0.1,0.9,m index,F06
+0.1,0.9,f index,F02
+0.1,0.9,t index,F02
+0.1,0.9,tappered_h_index,F02
+0.1,0.9,Maxprod,F02
+0.1,0.9,wu index,F02
+0.1,0.9,pi index,F02
+0.1,0.9,weighted h index,F02
+0.1,0.9,woginger_index,F07
+0.1,0.9,Gh_index,F02
+0.1,0.9,Rm index,F02
+0.1,0.9,X index,F08
+0.1,0.9,h2upper_index,F09
+0.1,0.9,h2 center_index,F10
+0.1,0.9,h2 lower_index,F11
+0.1,0.9,k dash index,F12
+0.1,0.9,i10 index,F02
+0.1,0.9,normalized_h_index,F05
+0.1,0.9,platinium_h_index,F04
+0.1,0.9,m_qoutient_index,F13
+0.1,0.9,HI_index,F02
+0.1,0.9,AW_index,F02
+0.1,0.9,Ar index,F02
+0.1,0.9,V index,F14
+0.1,0.9,hm_index,F02
+0.1,0.9,hf index,F02
+0.1,0.9,gf index,F02
+0.1,0.9,gF index,F01
+0.1,0.9,hi index,F02
+0.1,0.9,h_m_index,F02
+0.1,0.9,k norm index,F02
+0.1,0.9,w norm index,F02
+0.1,0.9,gm index,F01
+0.1,0.9,A index,F06
+0.1,0.9,R index,F02
+0.1,0.9,P index,F06
+0.1,0.9,q2 index,F02
+0.1,0.9,e index,F02
+0.1,0.9,hg_index,F02
+0.1,0.9,pure h index,F02
+0.1,0.9,fractional g index,F02
+0.1,0.9,fractional h index,F02
+0.1,0.9,AWCR,F02
+0.1,0.9,Author/paper,F15
+0.1,0.9,cites/author,F02
+0.1,0.9,paper/author,F01
+0.1,0.9,k index,F16
+0.1,0.9,h dash index,F02
+0.1,0.9,hl norm,F02
+0.1,0.9,hc index,F02
+0.1,0.9,ha index,F02
+0.1,0.9,hi index s,F02
+0.1,0.9,Rational h index,F02
+0.1,0.9,Real h index,F17
+0.15,0.85,Total Publication,F01
+0.15,0.85,Total Citation,F01
+0.15,0.85,Total Years,F02
+0.15,0.85,Cite/Year,F03
+0.15,0.85,Cite/Paper,F04
+0.15,0.85,h index,F01
+0.15,0.85,g index,F01
+0.15,0.85,h(2) index,F01
+0.15,0.85,w index,F01
+0.15,0.85,h core citation,F01
+0.15,0.85,m index,F03
+0.15,0.85,f index,F01
+0.15,0.85,t index,F01
+0.15,0.85,tappered_h_index,F01
+0.15,0.85,Maxprod,F01
+0.15,0.85,wu index,F01
+0.15,0.85,pi index,F01
+0.15,0.85,weighted h index,F01
+0.15,0.85,woginger_index,F05
+0.15,0.85,Gh_index,F01
+0.15,0.85,Rm index,F01
+0.15,0.85,X index,F06
+0.15,0.85,h2upper_index,F07
+0.15,0.85,h2 center_index,F08
+0.15,0.85,h2 lower_index,F09
+0.15,0.85,k dash index,F10
+0.15,0.85,i10 index,F01
+0.15,0.85,normalized_h_index,F04
+0.15,0.85,platinium_h_index,F03
+0.15,0.85,m_qoutient_index,F11
+0.15,0.85,HI_index,F01
+0.15,0.85,AW_index,F01
+0.15,0.85,Ar index,F01
+0.15,0.85,V index,F12
+0.15,0.85,hm_index,F01
+0.15,0.85,hf index,F01
+0.15,0.85,gf index,F01
+0.15,0.85,gF index,F01
+0.15,0.85,hi index,F01
+0.15,0.85,h_m_index,F01
+0.15,0.85,k norm index,F01
+0.15,0.85,w norm index,F01
+0.15,0.85,gm index,F01
+0.15,0.85,A index,F03
+0.15,0.85,R index,F01
+0.15,0.85,P index,F03
+0.15,0.85,q2 index,F01
+0.15,0.85,e index,F01
+0.15,0.85,hg_index,F01
+0.15,0.85,pure h index,F01
+0.15,0.85,fractional g index,F01
+0.15,0.85,fractional h index,F01
+0.15,0.85,AWCR,F01
+0.15,0.85,Author/paper,F13
+0.15,0.85,cites/author,F01
+0.15,0.85,paper/author,F01
+0.15,0.85,k index,F14
+0.15,0.85,h dash index,F01
+0.15,0.85,hl norm,F01
+0.15,0.85,hc index,F01
+0.15,0.85,ha index,F01
+0.15,0.85,hi index s,F01
+0.15,0.85,Rational h index,F01
+0.15,0.85,Real h index,F15
+0.2,0.8,Total Publication,F01
+0.2,0.8,Total Citation,F01
+0.2,0.8,Total Years,F02
+0.2,0.8,Cite/Year,F01
+0.2,0.8,Cite/Paper,F03
+0.2,0.8,h index,F01
+0.2,0.8,g index,F01
+0.2,0.8,h(2) index,F01
+0.2,0.8,w index,F01
+0.2,0.8,h core citation,F01
+0.2,0.8,m index,F01
+0.2,0.8,f index,F01
+0.2,0.8,t index,F01
+0.2,0.8,tappered_h_index,F01
+0.2,0.8,Maxprod,F01
+0.2,0.8,wu index,F01
+0.2,0.8,pi index,F01
+0.2,0.8,weighted h index,F01
+0.2,0.8,woginger_index,F04
+0.2,0.8,Gh_index,F01
+0.2,0.8,Rm index,F01
+0.2,0.8,X index,F05
+0.2,0.8,h2upper_index,F06
+0.2,0.8,h2 center_index,F07
+0.2,0.8,h2 lower_index,F08
+0.2,0.8,k dash index,F09
+0.2,0.8,i10 index,F01
+0.2,0.8,normalized_h_index,F03
+0.2,0.8,platinium_h_index,F01
+0.2,0.8,m_qoutient_index,F10
+0.2,0.8,HI_index,F01
+0.2,0.8,AW_index,F01
+0.2,0.8,Ar index,F01
+0.2,0.8,V index,F10
+0.2,0.8,hm_index,F01
+0.2,0.8,hf index,F01
+0.2,0.8,gf index,F01
+0.2,0.8,gF index,F01
+0.2,0.8,hi index,F01
+0.2,0.8,h_m_index,F01
+0.2,0.8,k norm index,F01
+0.2,0.8,w norm index,F01
+0.2,0.8,gm index,F01
+0.2,0.8,A index,F01
+0.2,0.8,R index,F01
+0.2,0.8,P index,F01
+0.2,0.8,q2 index,F01
+0.2,0.8,e index,F01
+0.2,0.8,hg_index,F01
+0.2,0.8,pure h index,F01
+0.2,0.8,fractional g index,F01
+0.2,0.8,fractional h index,F01
+0.2,0.8,AWCR,F01
+0.2,0.8,Author/paper,F11
+0.2,0.8,cites/author,F01
+0.2,0.8,paper/author,F01
+0.2,0.8,k index,F12
+0.2,0.8,h dash index,F01
+0.2,0.8,hl norm,F01
+0.2,0.8,hc index,F01
+0.2,0.8,ha index,F01
+0.2,0.8,hi index s,F01
+0.2,0.8,Rational h index,F01
+0.2,0.8,Real h index,F13
