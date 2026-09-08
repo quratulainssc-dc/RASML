@@ -1,6 +1,6 @@
 # Researcher-ranking locked run
 
-This folder contains the inputs, frozen settings, authoritative result files, and final figures used for the updated manuscript.
+This folder contains the inputs, frozen settings, authoritative result files, and final figures used for the manuscript.
 
 ## Required files
 
@@ -10,9 +10,6 @@ This folder contains the inputs, frozen settings, authoritative result files, an
 - `final_locked_results/`: authoritative CSV inputs used by the final figure-generation script.
 - `make_locked_figures.py`: generates Figures 1–9 from the locked inputs.
 - `final_locked_figures/`: the nine final 600-dpi PNG figures used in the manuscript.
-
-The source dataset and derived analytical matrix should be uploaded only if their access conditions permit redistribution. Without `analysis_matrix.csv`, Figure 2 cannot be regenerated.
-
 ## Run order
 
 1. Create and activate a Python 3.12 environment.
