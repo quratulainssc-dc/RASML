@@ -1,4 +1,4 @@
-# Researcher-ranking locked rerun
+# Researcher-ranking locked run
 
 This folder contains the inputs, frozen settings, authoritative result files, and final figures used for the updated manuscript.
 
