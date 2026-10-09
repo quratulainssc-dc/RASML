@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated research article."
+title: "Comparative Ranking of Computer Science Researchers Against Historical Award Status Using Statistical Aggregation and Machine Learning"
+type: software
+authors:
+  - family-names: "Ain"
+    given-names: "Qurat Ul"
+    orcid: "https://orcid.org/0000-0002-4914-2953"
+  - family-names: "Afzal"
+    given-names: "Muhammad Tanvir"
+repository-code: "https://github.com/quratulainssc-dc/GRASE-FIRM"
+date-released: 2026-10-09
+license: MIT
