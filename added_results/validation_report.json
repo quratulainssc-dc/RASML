@@ -1,0 +1,6 @@
+{
+  "rows_compared": 50,
+  "exact_selection_matches": 50,
+  "all_match": true,
+  "deterministic_output_match_across_two_runs": true
+}

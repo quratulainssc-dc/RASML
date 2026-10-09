@@ -1,0 +1,51 @@
+repeat,fold,candidate,C,inner_NDCG10,features
+1,1,8,3.1622776601683795,0.8304681951541428,k index | Ar index | h2upper_index | Cite/Paper | P index
+1,2,4,0.03162277660168379,0.826013056743232,h2upper_index | A index | Cite/Paper | k index | g index
+1,3,4,0.03162277660168379,0.8005784781485751,h2upper_index | Cite/Paper | Ar index | k index | P index
+1,4,11,100.0,0.7647930605190872,h2upper_index | k index | Ar index | Cite/Paper | P index
+1,5,7,1.0,0.7561287325190649,h2upper_index | k index | gf index | Cite/Paper | A index
+2,1,4,0.03162277660168379,0.8605823271564099,k index | h2upper_index | Cite/Paper | Ar index | P index
+2,2,5,0.1,0.8390129756872122,k index | h2upper_index | gf index | A index | Cite/Paper
+2,3,12,316.2277660168379,0.7637614345254028,h2upper_index | Ar index | Cite/Paper | k index | P index
+2,4,11,100.0,0.7774312317830084,h2upper_index | Ar index | k index | Cite/Paper | P index
+2,5,11,100.0,0.8162405862789873,h2upper_index | k index | Ar index | Cite/Paper | P index
+3,1,8,3.1622776601683795,0.8482889515206313,h2upper_index | k index | Ar index | Cite/Paper | Real h index
+3,2,10,31.622776601683793,0.8357736832820263,k index | gf index | h2upper_index | A index | Cite/Paper
+3,3,5,0.1,0.8592115053922131,h2upper_index | k index | Cite/Paper | Ar index | P index
+3,4,9,10.0,0.8476763007866067,h2upper_index | gf index | Cite/Paper | A index | k index
+3,5,12,316.2277660168379,0.8380341567750803,h2upper_index | Ar index | k index | Cite/Paper | paper/author
+4,1,10,31.622776601683793,0.7588657949827814,h2upper_index | k index | gf index | Cite/Paper | A index
+4,2,10,31.622776601683793,0.8453289189475299,gf index | k index | h2upper_index | A index | Cite/Paper
+4,3,10,31.622776601683793,0.9329951219454333,h2upper_index | Ar index | Cite/Paper | k index | P index
+4,4,9,10.0,0.8323573832662942,h2upper_index | Ar index | k index | Cite/Paper | P index
+4,5,11,100.0,0.6732247391634104,h2upper_index | Cite/Paper | k index | Ar index | P index
+5,1,7,1.0,0.9007887521196544,h2upper_index | Cite/Paper | Ar index | k index | P index
+5,2,7,1.0,0.8798232743412848,h2upper_index | k index | gf index | A index | Cite/Paper
+5,3,7,1.0,0.8087289360457589,h2upper_index | k index | gf index | Cite/Paper | A index
+5,4,5,0.1,0.8745302373661213,h2upper_index | Ar index | k index | Cite/Paper | P index
+5,5,5,0.1,0.8586030850994893,Ar index | k index | h2upper_index | Cite/Paper | P index
+6,1,12,316.2277660168379,0.8160618743920453,h2upper_index | A index | k index | Cite/Paper | gf index
+6,2,12,316.2277660168379,0.7921475399689859,h2upper_index | Cite/Paper | k index | A index | gf index
+6,3,9,10.0,0.7797778602585708,Ar index | h2upper_index | Cite/Paper | k index | P index
+6,4,5,0.1,0.8406546204034769,h2upper_index | k index | gf index | Cite/Paper | P index
+6,5,4,0.03162277660168379,0.7952410906092809,h2upper_index | gf index | k index | A index | Cite/Paper
+7,1,12,316.2277660168379,0.6998839227632193,h2upper_index | k index | pi index | Cite/Paper | Real h index
+7,2,5,0.1,0.824037310036006,h2upper_index | Ar index | Cite/Paper | k index | P index
+7,3,9,10.0,0.7762893391186255,h2upper_index | k index | Ar index | Cite/Paper | P index
+7,4,6,0.31622776601683794,0.9043021838949498,k index | Ar index | h2upper_index | Cite/Paper | P index
+7,5,12,316.2277660168379,0.7916563254633712,h2upper_index | Ar index | k index | Cite/Paper | Real h index
+8,1,5,0.1,0.8320995676925268,h2upper_index | Ar index | k index | Cite/Paper | P index
+8,2,12,316.2277660168379,0.7690996940141339,h2upper_index | Ar index | k index | Cite/Paper | P index
+8,3,9,10.0,0.8057206301876058,h2upper_index | Ar index | k index | Cite/Paper | P index
+8,4,11,100.0,0.780265512169914,h2upper_index | k index | pi index | Cite/Paper | P index
+8,5,9,10.0,0.7710888793336651,h2upper_index | Ar index | k index | Cite/Paper | P index
+9,1,7,1.0,0.8637530406980248,h2upper_index | Cite/Paper | k index | A index | HI_index
+9,2,8,3.1622776601683795,0.7534572710554827,h2upper_index | k index | Ar index | Cite/Paper | P index
+9,3,5,0.1,0.8014900255376477,h2upper_index | Cite/Paper | k index | Ar index | P index
+9,4,10,31.622776601683793,0.7982292647318401,k index | gf index | h2upper_index | Cite/Paper | Real h index
+9,5,11,100.0,0.8362330579341521,h2upper_index | Ar index | k index | Cite/Paper | Real h index
+10,1,5,0.1,0.8195636266150869,h2upper_index | gf index | k index | Cite/Paper | A index
+10,2,8,3.1622776601683795,0.8014297362029672,k index | Ar index | h2upper_index | Cite/Paper | P index
+10,3,9,10.0,0.782090980426925,h2upper_index | k index | gf index | Cite/Paper | A index
+10,4,6,0.31622776601683794,0.9036165005651219,h2upper_index | Cite/Paper | A index | k index | g index
+10,5,8,3.1622776601683795,0.8273110001184341,h2upper_index | k index | gf index | Cite/Paper | A index

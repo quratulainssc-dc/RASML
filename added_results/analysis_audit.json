@@ -1,0 +1,14 @@
+{
+  "dataset_sha256": "f9572cb2223ccf00c8816045ebf9e6b958bba0ef50c4b6d7bf2628c083162aec",
+  "folds_sha256": "eb4d14b2fa3aaaa3cc0929a35ceda8bc2608e0b0095b85bdeb58d34cf4ee3827",
+  "manifest_sha256": "e87ab8d5afed311a3de530125f376d181861832e52b36c0b7935a826414f1fa6",
+  "pipeline_sha256": "8d9d3ea94656cad564f13ab3c9e72c46d98be5f11d7fb2527040a2fa7809830e",
+  "n_records": 1184,
+  "n_awardees": 609,
+  "n_identity_groups": 1154,
+  "lr_candidates": 12,
+  "outer_repeats": 10,
+  "outer_folds": 5,
+  "inner_folds": 3,
+  "archived_score_analyses_completed": true
+}

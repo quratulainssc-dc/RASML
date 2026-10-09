@@ -1,0 +1,36 @@
+{
+  "status": "FROZEN",
+  "configurations_per_model": 12,
+  "primary_score": "mean within-outer-fold percentile-normalized held-out score across ten repeats",
+  "class_weighting": "none for every model",
+  "cutoffs": [
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5
+  ],
+  "prevalences": [
+    0.05,
+    0.1,
+    0.2,
+    0.3,
+    0.5
+  ],
+  "family_cuts": [
+    0.05,
+    0.1,
+    0.15,
+    0.2
+  ],
+  "versions": {
+    "python": "3.12.13 (main, Aug  7 2026, 02:25:39) [Clang 22.1.3 ]",
+    "platform": "Linux-6.18.35-x86_64-with-glibc2.39",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "sklearn": "1.8.0",
+    "xgboost": "3.0.5",
+    "shap": "0.52.0"
+  }
+}

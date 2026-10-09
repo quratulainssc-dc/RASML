@@ -1,0 +1,7 @@
+{
+  "master_seed": 20260819,
+  "outer_repeats": 10,
+  "outer_folds": 5,
+  "inner_folds": 3,
+  "note": "Repeat 1 uses the archived fixed assignment; later grouped outer folds and all inner folds are generated deterministically by the analysis code."
+}
